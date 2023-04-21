@@ -1,0 +1,6 @@
+Receipt:
+Vehicle number: BA1234
+Type: Bike
+Entry time: Sat Jan 21 23:27:10 2023
+Exit time: Thu Jan 01 05:00:00 1970
+Fee: 50 RS

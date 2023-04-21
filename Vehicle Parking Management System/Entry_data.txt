@@ -1,0 +1,9 @@
+Vehicle number: BA123
+Type: Car
+Entry time: Sat Jan 21 23:26:56 2023
+Vehicle number: BA1234
+Type: Bike
+Entry time: Sat Jan 21 23:27:10 2023
+Vehicle number: BA321
+Type: Bus
+Entry time: Sat Jan 21 23:27:19 2023
